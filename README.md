@@ -1,2 +1,2 @@
-# tic-tac-toe.github.io
-it works and it's cool
+# seeyouguys.github.io/tic-tac-toe/
+You could try it on the link above
