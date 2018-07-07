@@ -178,7 +178,3 @@ document.querySelector("#reset-btn").addEventListener("click", function (e) {
 	colorControl.unhighlightRestartButton()
 	colorControl.makeCellColorsNormal()
 })
-
-document.querySelector("#just-btn").addEventListener("click", function (e) {
-	colorControl.colorWinWay()
-})
